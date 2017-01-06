@@ -1,0 +1,9 @@
+About imaplib2
+==============
+
+The software you have available at this package has been downloaded from
+official upstream at http://imaplib2.sourceforge.net/.
+
+Although source file (imaplib2.py) has not been altered, the original directory
+structure, together with some files have been added for distributing and
+building modules at the python way.

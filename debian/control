@@ -1,0 +1,27 @@
+Source: python-imaplib2
+Section: python
+Priority: optional
+Maintainer: Ulises Vitulli <dererk@debian.org>
+Build-Depends: debhelper (>= 9), python (>= 2.6.6-3~), dh-python,
+ python-setuptools, python3-setuptools, python3-all
+Standards-Version: 3.9.8
+X-Python-Version: >= 2.6
+X-Python3-Version: >= 3.2
+Homepage: http://sourceforge.net/projects/imaplib2/
+Vcs-Browser: http://sourceforge.net/p/imaplib2/code/ci/master/tree/
+
+Package: python-imaplib2
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}
+Description: Threaded Python IMAP4 client
+ Python IMAP4 rev1 mail protocol client class using threads for parallel
+ operation, allowing full use of the IMAP4 concurrency features and to
+ decouple a user of imaplib from i/o lags, except where explicitly allowed.
+
+Package: python3-imaplib2
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}
+Description: Threaded Python IMAP4 client (Python 3)
+ Python IMAP4 rev1 mail protocol client class using threads for parallel
+ operation, allowing full use of the IMAP4 concurrency features and to
+ decouple a user of imaplib from i/o lags, except where explicitly allowed.

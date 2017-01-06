@@ -1,0 +1,17 @@
+python-imaplib2 (2.55-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Ulises Vitulli <dererk@debian.org>  Fri, 09 Sep 2016 14:11:08 -0300
+
+python-imaplib2 (2.53-1) unstable; urgency=medium
+
+  * New upstream release (Closes: #808029). Thanks IliasTsitsimpis.
+
+ -- Ulises Vitulli <dererk@debian.org>  Tue, 15 Dec 2015 09:51:15 -0300
+
+python-imaplib2 (2.42-1) unstable; urgency=medium
+
+  * Initial release (Closes: #780304).
+
+ -- Ulises Vitulli <dererk@debian.org>  Mon, 23 Mar 2015 17:46:58 -0300
