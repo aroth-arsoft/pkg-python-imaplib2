@@ -1,3 +1,9 @@
+python-imaplib2 (2.55-1.1~aroth1) yakkety; urgency=medium
+
+  * backport latest version from zesty
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Fri, 06 Jan 2017 12:58:27 +0100
+
 python-imaplib2 (2.55-1) unstable; urgency=medium
 
   * New upstream release.
